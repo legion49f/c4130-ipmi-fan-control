@@ -1,0 +1,1 @@
+* * * * * sleep 5; /root/fan-temperature/fan_control.sh > /tmp/fan_control.txt 2>&1
