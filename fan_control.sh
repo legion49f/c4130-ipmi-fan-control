@@ -9,7 +9,7 @@ TEMP_MAX=65      # Maximum temperature for fan control (°C)
 
 IDRAC_IP="10.10.10.205"
 IDRAC_USER="root"
-IDRAC_PASS="$IDRAC_PASS"
+IDRAC_PASS="$IDRAC_PASS" # or hardcode it here.
 # IPMI PASSWORD ENV: IDRAC_PASS
 
 # To re-enable dynamic fan control ie go back to factory settings.
